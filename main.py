@@ -1,5 +1,5 @@
 def print_hi(name):
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+    print(f'Hi, {name}')
 
 
 if __name__ == '__main__':
